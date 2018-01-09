@@ -1,0 +1,7 @@
+C:\Work\Docker\jkwangtest\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Work\Docker\jkwangtest\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Work\Docker\jkwangtest\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Work\Docker\jkwangtest\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Work\Docker\jkwangtest\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Work\Docker\jkwangtest\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Work\Docker\jkwangtest\TestProject\TestProject\obj\Debug\TestProject.pdb
